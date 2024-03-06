@@ -1,4 +1,4 @@
 # odin-recipes
 TheOdinProject Lesson
 
-A barebones web desing about recipes
+A bare-bones web design about recipes
